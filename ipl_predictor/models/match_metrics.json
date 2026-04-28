@@ -1,0 +1,6 @@
+{
+  "accuracy": 0.5173913043478261,
+  "baseline_strong_always": 0.508695652173913,
+  "train_rows": 916.0,
+  "test_rows": 230.0
+}
